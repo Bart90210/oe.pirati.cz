@@ -8,9 +8,9 @@ category:                   # kategorie
 
 img: people/ppp.jpg   # 165 x 220
 description: lídr komunální kandidátky          	# kratký popis, max 160 znaků
-mob:			  +420 123 456 789
+mob:			  +420 605 410 260
 mail:
-- pirat.testovaci@pirati.cz
+- pavel.beznoska@pirati.cz
 profiles:
   facebook: https://www.facebook.com/
 ordkontakty: 1

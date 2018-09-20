@@ -16,5 +16,3 @@ profiles:
 ordkontakty: 1
 
 ---
-
-Pirát Testovací (*1. ledna 1990) je fiktivní postavou, kterou je potřeba na webu okamžitě nahradit, jinak dojde ke globální katastrofě.

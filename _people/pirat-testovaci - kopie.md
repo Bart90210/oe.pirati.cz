@@ -12,7 +12,7 @@ mob:			  +420 605 410 260
 mail:
 - pavel.beznoska@pirati.cz
 profiles:
-  facebook: https://www.facebook.com/pavel.beznoska
+  facebook: https://www.facebook.com/
 ordkontakty: 1
 
 ---

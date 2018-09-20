@@ -6,7 +6,7 @@ ogimage: https://raw.githubusercontent.com/pirati-web/uh.pirati.cz/master/assets
 ---
 
 1. [**Ing. Pavel Beznoska**](/lide/pirat-testovaci), 40 let
-2. [**Ing. Petr Ťopek**], 52 let
+2. [**Ing. Petr Ťopek**](/lide/pirat-testovaci), 52 let
 3. [**Bc. Karolína Kuželová**](/lide/pirat-testovaci), 24 let
 4. [**Ing. Miroslav Malina**](/lide/pirat-testovaci), 52 let
 5. [**Michaela Gachová**](/lide/pirat-testovaci), 27 let
